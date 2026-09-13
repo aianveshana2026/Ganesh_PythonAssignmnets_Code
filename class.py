@@ -18,6 +18,5 @@ class Sudent_Info:
 
 
 s1=Sudent_Info("Ganesh",90,60,80)
-s1.print_hello()
 
 
