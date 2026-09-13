@@ -6,6 +6,7 @@ class Sudent_Info:
         self.subj2=subj2
         self.subj3=subj3
 
+
     def avarg(self):
         result=((self.subj1+self.subj2+self.subj3)/3)
         return result
@@ -18,4 +19,5 @@ class Sudent_Info:
 
 s1=Sudent_Info("Ganesh",90,60,80)
 s1.print_hello()
+
 
