@@ -15,3 +15,6 @@ def print_count_Down(n=10):
     print(n)
     b=n+1
     print_count_Down(b)
+
+def print_test():
+    print("Hi")
